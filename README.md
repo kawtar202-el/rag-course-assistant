@@ -57,5 +57,4 @@ A Retrieval-Augmented Generation (RAG) application to help students ask question
 - FAISS for vector storage
 - FastAPI for web backend
 - HTML/CSS/JavaScript for web frontend
-- Streamlit for the web interface (optional)
 - PyPDF2 for PDF processing
