@@ -35,10 +35,6 @@ A Retrieval-Augmented Generation (RAG) application to help students ask question
    ```
    python -m uvicorn api:app --host 0.0.0.0 --port 8000
    ```
-   Or use the batch file:
-   ```
-   start_api.bat
-   ```
 3. Open `chat_interface.html` in your web browser
 4. Ask questions about your course materials
 
