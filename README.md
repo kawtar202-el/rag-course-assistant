@@ -28,7 +28,7 @@ A Retrieval-Augmented Generation (RAG) application to help students ask question
 
 ## Usage
 
-### Web Chat Interface (New!)
+### Web Chat Interface 
 
 1. Place your course materials in the `course_materials` folder
 2. Start the API server:
@@ -42,32 +42,9 @@ A Retrieval-Augmented Generation (RAG) application to help students ask question
 3. Open `chat_interface.html` in your web browser
 4. Ask questions about your course materials
 
-### Command-Line Interface (Recommended)
 
-1. Place your course materials in the `course_materials` folder
-2. Run the command-line interface:
-   ```
-   python cli_interface.py
-   ```
-   Or use the simple version:
-   ```
-   python cli_simple.py
-   ```
-   Or use the batch files:
-   ```
-   start_cli.bat
-   start_simple_cli.bat
-   ```
-3. Ask questions about your course materials directly in the terminal
 
-### Streamlit Web Interface (Alternative)
 
-1. Place your course materials in the `course_materials` folder
-2. Run the Streamlit app:
-   ```
-   streamlit run app.py
-   ```
-3. The application will be available at `http://localhost:8501`
 
 ## How It Works
 
